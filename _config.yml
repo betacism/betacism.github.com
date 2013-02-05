@@ -1,0 +1,4 @@
+server: false
+url: betacism.com
+markdown: redcarpet
+pygments: true
