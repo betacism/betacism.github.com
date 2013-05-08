@@ -1,3 +1,8 @@
+---
+layout: default
+title: Password
+---
+
 ###Zachary, this is the start.
 
 ####IT IS
