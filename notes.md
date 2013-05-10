@@ -26,3 +26,6 @@ title: Betacism
 - Alarmed the Soviets, built a wall through Berlin to blockade the relief
 - Truman gave 2.5 million tons of food to people of Berlin
 - Stalin resisted East Berlin
+- NATO = North Atlantic Treaty Organization
+	- 12 countries agreed an attack on one country would be an attack on them all
+- Soviets responded by forming a new gov't in East Germany = German Democratic Republic
